@@ -1,4 +1,5 @@
 #!/bin/bash
+
 for name in Umwari Vanessa
 do
 echo "my name is $name"
